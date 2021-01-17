@@ -1,0 +1,17 @@
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\bin\Debug\netcoreapp2.2\ImportEcelSheetApi.deps.json
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\bin\Debug\netcoreapp2.2\ImportEcelSheetApi.runtimeconfig.json
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\bin\Debug\netcoreapp2.2\ImportEcelSheetApi.runtimeconfig.dev.json
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\bin\Debug\netcoreapp2.2\ImportEcelSheetApi.dll
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\bin\Debug\netcoreapp2.2\ImportEcelSheetApi.pdb
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.csprojAssemblyReference.cache
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.AssemblyInfoInputs.cache
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.AssemblyInfo.cs
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.csproj.CoreCompileInputs.cache
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.RazorAssemblyInfo.cache
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.RazorAssemblyInfo.cs
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.RazorTargetAssemblyInfo.cache
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.dll
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.pdb
+C:\Users\Mina Morcos\Desktop\ImportEcelSheetApi\ImportEcelSheetApi\obj\Debug\netcoreapp2.2\ImportEcelSheetApi.genruntimeconfig.cache
